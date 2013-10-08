@@ -1,4 +1,4 @@
 FontConfig
 ==========
 
-My fontconfig
+My fontconfig files in Archlinux.
